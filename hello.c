@@ -1,5 +1,5 @@
 #include <stdio.h>
-int main(void){
+int main(void) {
 
 printf("Mack Prda");
 return 0;
